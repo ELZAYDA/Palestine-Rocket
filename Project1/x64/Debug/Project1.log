@@ -1,0 +1,5 @@
+﻿  Application.cpp
+D:\SOD\Palestine Rocket\Project1\src\Application.cpp(69,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\SOD\Palestine Rocket\Project1\src\Application.cpp(148,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SOD\Palestine Rocket\Project1\src\Application.cpp(155,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> D:\SOD\Palestine Rocket\x64\Debug\Project1.exe
