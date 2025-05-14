@@ -119,7 +119,7 @@ All transformations are handled in the `applyTransformations()` function, which 
 // Example transformation matrix calculation
 glm::mat4 transformMatrix = glm::mat4(1.0f);
 transformMatrix = glm::translate(transformMatrix, position);
-transformMatrix = glm::rotate(transformMatrix, rotationX, glm::vec3(1.0f, 0.0f, 0.0f));
+transformMatrix = glm::rotate(transformMatrix, rotationX, glm::vec3(1.0f, 0.0f, 0.0f));https://github.com/ELZAYDA/Palestine-Rocket/blob/main/README.md
 transformMatrix = glm::rotate(transformMatrix, rotationY, glm::vec3(0.0f, 1.0f, 0.0f));
 transformMatrix = glm::scale(transformMatrix, scale);
 ```
@@ -132,7 +132,7 @@ transformMatrix = glm::scale(transformMatrix, scale);
 
 ## 📷 Preview
 
-![OpenGL Rocket Demo](/api/placeholder/800/450)
+![OpenGL Rocket Demo](Project1_7n4gFARIiI.png)
 
 *Screenshot of the 3D rocket with shelling effect applied*
 
