@@ -143,13 +143,14 @@ transformMatrix = glm::scale(transformMatrix, scale);
 - The implementation focuses on educational purposes, showing how 3D transformations work in practice.
 
 ## 👨‍💻 Author
-**Ahmed Nabil Mohamed** – [Tanta, Egypt]  
-OpenGL Rocket Demo – Graduation/Practice Project
 
----
+Ahmed Nabil - Engineer & Project Maintainer
+
+
+📧 Email: ahmedelzayda19@gmail.com
+🔗 Project: https://github.com/ELZAYDA/Palestine-Rocket/edit/
+
 
 <p align="center">
-  <img src="/api/placeholder/50/50" alt="Rocket Icon" style="border-radius: 50%">
-  <br>
-  <i>Explore the cosmos with OpenGL!</i>
+  Made with ❤️ by Ahmed Nabil
 </p>
